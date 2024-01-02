@@ -1,14 +1,16 @@
-# README Template
+# Collateralized Loan Contract in Solidity
 
-Below is a template provided for use when building your README file for students.
-
-# Project Title
-
-Project description goes here.
+This Solidity project introduces the fundamental concepts of creating, deploying, and interacting with a smart contract on the Ethereum blockchain. Students will learn how to build a secure, functional contract that manages collateralized loans, allowing users to deposit Ethereum as collateral to request a loan, which can then be funded by lenders for interest returns.
 
 ## Getting Started
 
-Instructions for how to get a copy of the project running on your local machine.
+To get started with the project, clone this repository and navigate to the `starter` folder and open `CollateralizedLoan.sol` file on [remix](https://remix.ethereum.org/).
+
+```
+git clone git@github.com:udacity/cd13281-blockchain-with-solidity-project.git
+
+cd cd13281-blockchain-with-solidity-project
+```
 
 ### Dependencies
 
@@ -44,9 +46,9 @@ This section should contain all the student deliverables for this project.
 
 ## Built With
 
-* [Item1](www.item1.com) - Description of item
-* [Item2](www.item2.com) - Description of item
-* [Item3](www.item3.com) - Description of item
+- [Item1](www.item1.com) - Description of item
+- [Item2](www.item2.com) - Description of item
+- [Item3](www.item3.com) - Description of item
 
 Include all items used to build project.
 
